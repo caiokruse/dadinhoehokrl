@@ -1,4 +1,4 @@
 # dadinhoehokrl
 Primeiro repositorio GitHub
 
-Acho que fiz merda na primeira edição.
+Caio, economista, consultor em finanças corporativas. Aprendendo sobre programação, análise de dados e afins!
